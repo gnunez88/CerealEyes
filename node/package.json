@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "node-serialize": "^0.0.4"
+  }
+}
